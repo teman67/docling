@@ -1,0 +1,9 @@
+,Metric,M3GNET PBESOL,MACE PBESOL
+0,Failed percentage (%),0.096,0.25
+1,MAE (eVatom -  1 ),0.057,0.044
+2,RMSE (eVatom -  1 ),0.086,0.083
+3,Number of outliers,3,2
+4,RMSE w.o. (eVatom -  1 ),0.082,0.072
+5,90th quantile AE (eVatom -  1 ),0.122,0.090
+6,MAD (eVatom -  1 ),0.042,0.029
+7,MAE Volume (Å 3 atom -  1 ),0.5,0.86

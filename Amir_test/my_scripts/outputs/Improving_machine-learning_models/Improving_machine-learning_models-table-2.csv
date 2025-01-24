@@ -1,0 +1,8 @@
+,Property,Units,mean,std,MAE,err (%)
+0,Gap,eV,0.13,0.58,0.030,23
+1,Eform,eVatom -  1,-  0.25,0.93,0.016,6.5
+2,Ehull,eVatom -  1,0.41,0.54,0.018,4.4
+3,E tot /atom,eVatom -  1,-  5.1,2.0,0.039,0.76
+4,Mag/vol,μBÅ -  3,0.0090,0.021,0.0027,30
+5,Vol/atom,Å3 atom -  1,24,9.2,0.039,0.16
+6,DOS/atom,states (eV atom) -  1,0.81,0.62,0.14,17
